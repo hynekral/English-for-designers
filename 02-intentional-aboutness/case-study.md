@@ -7,6 +7,8 @@
 
 The old logo needed to modernise, due to the fact, that it had been used since 2002. The new visual identity had to be make, because they have worked just with the logo so far. Our goal was to make the theatre more visible and to attract new visitors.
 
+ ![A photo from a theatre play](sud_old_logo.jpeg)
+
 I started my work by designing the logo. We wanted it to be playful, youthful and representing a theatre as itself. I started thinking about one motive that connects all forms of art together.
 Then the glorious idea came! The connecting word is **the dialog!**
 Because art, in any form, is a dialog. Either between the artists, between the artist and the viewer or between the viewers.
