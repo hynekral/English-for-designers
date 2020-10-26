@@ -14,6 +14,7 @@ Then the glorious idea came! The connecting word is **the dialog!**
 Because art, in any form, is a dialog. Either between the artists, between the artist and the viewer or between the viewers.
  
  ![Logo origin. Theatre masks + quotation marks = new logo](logo_origin.png)
+ ![Logo origin. Theatre masks + quotation marks = new logo](origin_logo.png)
 
 The offering motive for theatre was the theatre mask, of course. The dialogue represent the best, as I think, quotation marks. So let’s try to put these motives together. And *voilá*, what have we got? The new logo!
 
