@@ -1,6 +1,6 @@
 ## Character & Description
 
- ![A crimson sans-serif capital letter H with four small white dots at the top and bottom of each stem.](red_letter_h.png)
+ ![A crimson sans-serif capital letter H with four small white dots at the top and bottom of each stem.](red-letter-h.png)
 ###### *H*, Hynek Král, Design in Adobe Illustartor. ######
 
  - - -
