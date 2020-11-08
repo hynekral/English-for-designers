@@ -9,7 +9,7 @@
 The old logo needed to modernise, due to the fact, that it had been used since 2002. The new visual identity had to be make, because they have worked just with the logo so far. Our goal was to make the theatre more visible and to attract new visitors.
 
  <p align="center">
-  <img width="460" height="480" src="https://github.com/hynekral/english-for-designers/blob/main/02-intentional-aboutness/img/sud-old-logo.png">
+  <img width="360" height="380" src="https://github.com/hynekral/english-for-designers/blob/main/02-intentional-aboutness/img/sud-old-logo.png">
 </p>
 
 I started my work by designing the logo. We wanted it to be playful, youthful and representing a theatre as itself. I started thinking about one motive that connects all forms of art together.
@@ -23,6 +23,7 @@ Because art, in any form, is a dialog. Either between the artists, between the a
 Then I started thinking about the connection of the logo and the whole visual identity i wanted to create. As I was thinking I realised that quotation marks are truly beneficial element, therefore I defined them as the main motive that will be appearing through the visual identity.
 
 I created patterns consisting of the quotation marks and used them on posters and tickets.
+ ![A photo from a theatre play](pattern-tickets.png)
 
 Because there will be various events taking place in the theatre, I tried to design several motives that would distinguish the events, for example masks representing theatre plays or headphones representing music…
 
