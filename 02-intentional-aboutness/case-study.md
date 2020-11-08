@@ -37,3 +37,6 @@ Because there will be various events taking place in the theatre, I tried to des
 Quotation mark could also appear in the restroom.
 ![motive of a basin and a toilet](./img/toilet-motives.png)
 `Use of quotation marks.`
+
+![canvas bag merch](./img/merch.png)
+`Merch example.`
