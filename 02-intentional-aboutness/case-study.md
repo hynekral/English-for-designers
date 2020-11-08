@@ -9,7 +9,7 @@
 The old logo needed to modernise, due to the fact, that it had been used since 2002. The new visual identity had to be make, because they have worked just with the logo so far. Our goal was to make the theatre more visible and to attract new visitors.
 
  <p align="center">
-  <img width="460" height="480" src="https://github.com/hynekral/english-for-designers/blob/main/02-intentional-aboutness/sud_old_logo.jpg">
+  <img width="460" height="480" src="https://github.com/hynekral/english-for-designers/blob/main/02-intentional-aboutness/img/sud-old-logo.png">
 </p>
 
 I started my work by designing the logo. We wanted it to be playful, youthful and representing a theatre as itself. I started thinking about one motive that connects all forms of art together.
