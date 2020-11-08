@@ -12,6 +12,7 @@ The old logo needed to modernise, due to the fact, that it had been used since 2
  <p align="center">
   <img width="360" height="380" src="https://github.com/hynekral/english-for-designers/blob/main/02-intentional-aboutness/img/sud-old-logo.png">
 </p>
+
 `Old logo.`
 
 I started my work by designing the logo. We wanted it to be playful, youthful and representing a theatre as itself. I started thinking about one motive that connects all forms of art together.
@@ -32,6 +33,7 @@ I created patterns consisting of the quotation marks and used them on posters an
 Because there will be various events taking place in the theatre, I tried to design several motives that would distinguish the events, for example masks representing theatre plays or headphones representing music…
 ![motive of hadphones and theatre masks](./img/motives.png)
 `Use of quotation marks.`
+
 Quotation mark could also appear in the restroom.
 ![motive of a basin and a toilet](./img/toilet-motives.png)
 `Use of quotation marks.`
