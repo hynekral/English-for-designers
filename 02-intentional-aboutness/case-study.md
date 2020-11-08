@@ -2,7 +2,7 @@
 # Divadlo SUD #
 
 *Divadlo Sud* is short for *Studentské universitní divadlo* (in Czech SUD means barrel), translated to English it means *Student University Theatre*. It is a small theater situated in a centre of a South Bohemian city České Budějovice.
- ![A photo from a theatre play](theatre-play.jpg)
+ ![A photo from a theatre play](./img/theatre-play.jpg)
 
 *SUD* is an association established in 2002 by a group of enthusiastic university students. It is based on volunteering and the initiative of the members who participate in organizing various events, such as theatre, exhibitions, workshops, talks etc..The theatre is inclined to support young talented people and culturally enrich the society.
 
@@ -23,7 +23,7 @@ Because art, in any form, is a dialog. Either between the artists, between the a
 Then I started thinking about the connection of the logo and the whole visual identity i wanted to create. As I was thinking I realised that quotation marks are truly beneficial element, therefore I defined them as the main motive that will be appearing through the visual identity.
 
 I created patterns consisting of the quotation marks and used them on posters and tickets.
- ![A photo from a theatre play](pattern-tickets.png)
+ ![A photo from a theatre play](./img/pattern-tickets.png)
 
 Because there will be various events taking place in the theatre, I tried to design several motives that would distinguish the events, for example masks representing theatre plays or headphones representing music…
 
