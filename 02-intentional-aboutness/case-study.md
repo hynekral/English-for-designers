@@ -18,7 +18,7 @@ Because art, in any form, is a dialog. Either between the artists, between the a
  
  The offering motive for theatre was the theatre mask, of course. The dialogue represent the best, as I think, quotation marks. So let’s try to put these motives together. And *voilá*, what have we got? The new logo!
  
-![Logo origin. Theatre masks + quotation marks = new logo](logo_origin.png)
+![Logo origin. Theatre masks + quotation marks = new logo](./img/logo-origin.png)
 
 Then I started thinking about the connection of the logo and the whole visual identity i wanted to create. As I was thinking I realised that quotation marks are truly beneficial element, therefore I defined them as the main motive that will be appearing through the visual identity.
 
