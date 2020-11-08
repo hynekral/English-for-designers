@@ -1,4 +1,4 @@
-## NOT READY ##
+
 # Divadlo SUD #
 
 *Divadlo Sud* is short for *Studentské universitní divadlo* (in Czech SUD means barrel), translated to English it means *Student University Theatre*. It is a small theater situated in a centre of a South Bohemian city České Budějovice.
