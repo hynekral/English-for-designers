@@ -12,6 +12,7 @@ The old logo needed to modernise, due to the fact, that it had been used since 2
  <p align="center">
   <img width="360" height="380" src="https://github.com/hynekral/english-for-designers/blob/main/02-intentional-aboutness/img/sud-old-logo.png">
 </p>
+`Old logo.`
 
 I started my work by designing the logo. We wanted it to be playful, youthful and representing a theatre as itself. I started thinking about one motive that connects all forms of art together.
 Then the glorious idea came! The connecting word is **the dialog!**
@@ -20,13 +21,17 @@ Because art, in any form, is a dialog. Either between the artists, between the a
  The offering motive for theatre was the theatre mask, of course. The dialogue represent the best, as I think, quotation marks. So let’s try to put these motives together. And *voilá*, what have we got? The new logo!
  
 ![Logo origin. Theatre masks + quotation marks = new logo](./img/logo-origin.png)
+`Origin of the new logo.`
 
 Then I started thinking about the connection of the logo and the whole visual identity i wanted to create. As I was thinking I realised that quotation marks are truly beneficial element, therefore I defined them as the main motive that will be appearing through the visual identity.
 
 I created patterns consisting of the quotation marks and used them on posters and tickets.
  ![tickets mockup](./img/pattern-tickets.png)
+ `Tickets.`
 
 Because there will be various events taking place in the theatre, I tried to design several motives that would distinguish the events, for example masks representing theatre plays or headphones representing music…
 ![motive of hadphones and theatre masks](./img/motives.png)
+`Use of quotation marks.`
 Quotation mark could also appear in the restroom.
 ![motive of a basin and a toilet](./img/toilet-motives.png)
+`Use of quotation marks.`
