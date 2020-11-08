@@ -40,3 +40,7 @@ Quotation mark could also appear in the restroom.
 
 ![canvas bag merch](./img/merch.png)
 `Merch example.`
+
+So that was actually all I can write about this project. The SUD project has not been finished yet and I know that I still have a long way to go. 
+
+
