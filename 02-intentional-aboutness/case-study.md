@@ -23,8 +23,8 @@ Because art, in any form, is a dialog. Either between the artists, between the a
 Then I started thinking about the connection of the logo and the whole visual identity i wanted to create. As I was thinking I realised that quotation marks are truly beneficial element, therefore I defined them as the main motive that will be appearing through the visual identity.
 
 I created patterns consisting of the quotation marks and used them on posters and tickets.
- ![A photo from a theatre play](./img/pattern-tickets.png)
+ ![tickets mockup](./img/pattern-tickets.png)
 
 Because there will be various events taking place in the theatre, I tried to design several motives that would distinguish the events, for example masks representing theatre plays or headphones representing music…
-
+![motive of hadphones and theatre masks](./img/motives.png)
 Quotation mark could also appear in the restroom.
