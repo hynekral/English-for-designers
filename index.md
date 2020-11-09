@@ -7,4 +7,4 @@
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](01-character-description/character-description.md)
 
-[Home]( https://hynekral.github.io/english-for-designers/.)
+[Home](https://github.com/hynekral)
