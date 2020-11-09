@@ -1,1 +1,1 @@
->[View Course Work](https://hynekral.github.io/english_for_designers)
+>[View Course Work](https://hynekral.github.io/english-for-designers/)
