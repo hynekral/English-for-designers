@@ -1,7 +1,7 @@
 # Hynek Král
 
 - [About](02-intentional-aboutness/about.md)
-- [Experience](03-curriculum-vitae/cv-dudacek.md)
+- [Experience](03-curriculum-vitae/hynek-kral-cv.md)
 
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
