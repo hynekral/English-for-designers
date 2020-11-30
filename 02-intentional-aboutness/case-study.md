@@ -18,7 +18,7 @@ The old logo needed to modernise, due to the fact, that it had been used since 2
 I started my work by designing the logo. We wanted it to be playful, youthful and representing a theatre as itself. I started thinking about one motive that connects all forms of art together.
 Then the glorious idea came! 
 
-*The connecting word is **the dialog!***
+*The connecting phrase is **the dialog!***
 
 Because art, in any form, is a dialog. Either between the artists, between the artist and the viewer or between the viewers.
  
