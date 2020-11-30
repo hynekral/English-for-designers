@@ -29,6 +29,23 @@ A three-year study programme ending with bachelor degree.
 
 ## Experience:
 
+#### Personal work
+
+- 2020 Visual Identity of student theatre SUD
+
+- 2020 Leaflet for dental clinic
+
+- 2020 Album cover for a band Nahoře
+
+- 2020 Website design for a clinic of plastic surgery
+
+#### Public contracts at university: 
+- 2020 Bollywood - a visual style for Czech Bollywood film festival 
+
+- 2019 Koli - a redesign of Koli lemonade labels and instagram posts
+
+- 2018 Blanka Matragi - a logo for fashion designer Blanka Matragi
+
 ## Languages:
 
 Czech / native
