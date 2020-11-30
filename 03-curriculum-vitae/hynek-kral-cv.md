@@ -11,12 +11,12 @@ I enjoy traveling and getting to know other cultures and people. During my high 
 
 ## Education  
 
-* **VŠKK,Prague, 2018-Currently studying (3rd year)** 
+* **VŠKK, Prague, 2018-Currently studying (3rd year)** 
 
    * Graphic and media design specialization. 
 A three-year study programme with bachelor degree. 
 
-* **Gymnázium Česká, České Budějovice, Česká 64, 2010- 2018** 
+* **Gymnázium Česká, Česká 64, České Budějovice, 2010-2018** 
   
    * Eight-year high school. 
   
@@ -31,7 +31,7 @@ A three-year study programme with bachelor degree.
 
 Czech / native
 
-English / B2
+English / B2/C1
 
 German / B1
 
