@@ -20,9 +20,12 @@ A three-year study programme ending with bachelor degree.
   
   
 ## Skills: 
-I can work with essential programs of Adobe Creative Cloud - Illustrator, InDesign, Photoshop, Lightroom (vector design, text formatting, photo retouching, illustrating, collage making, etc...).
+* essential programs of Adobe Creative Cloud - Illustrator, InDesign, Photoshop, Lightroom (vector design, text formatting, photo retouching, illustrating, collage making, etc...).
 
-I am also able to create basic motion graphics and animations in AfterEffects and Premiere.
+* Basic motion graphics and animations in AfterEffects and Premiere.
+* Branding
+* Product strategy
+* Illustration
 
 ## Experience:
 
