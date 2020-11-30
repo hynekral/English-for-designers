@@ -35,7 +35,7 @@ A three-year study programme ending with bachelor degree.
 
 - 2020 Leaflet for dental clinic
 
-- 2020 Album cover for a band Nahoře
+- 2020 Album cover and posters for a band Nahoře
 
 - 2020 Website design for a clinic of plastic surgery
 
