@@ -2,7 +2,10 @@
 # Hynek Král
 
 ## About 
+I am a graphic and media design student, passionate in details and harmony. I am precise and very self-critical, it kicks me to create the best work I can.
+I consider myself to be an friendly, easygoing, and talkative person. Working alone at home isn't a big deal for me, however, I am a team player and I am always happy to welcome a dialogue. Communication, resulting into a satisfaction of either colleagues or clients, is crucial for me. I believe that throw the dialog people can come up with an idea, they would never come up just by themselves. I am always excited of gaining new experiences and skills and to be enspired by the people I meet. In addition to graphic design I enjoy illustration and basal motion design. 
 
+If I am not working, you would probably find me hiking somewhere in the countryside with my friends and dog, or enjoying time in a pub. To relax my mind I love to play the trumpet or sing with my ukulele. Traveling to any country is attractive for me ass well.
 
 ## Education  
 
