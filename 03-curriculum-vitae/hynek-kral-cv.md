@@ -50,7 +50,7 @@ A three-year study programme ending with bachelor degree.
 
 Czech / native
 
-English / B2/C1
+English / B2
 
 German / B1
 
