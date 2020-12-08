@@ -5,7 +5,7 @@
 I'm a graphic and media design student, passionate about details and balance. I'm precise and very self-critical, and it pushes me to create the best work that I can.
 I consider myself a friendly, easygoing, and talkative person. Working alone at home isn't a big deal for me, yet, I'm a team player and always happy to welcome a conversation. Communication, resulting in the satisfaction of either colleagues or clients, is crucial for me. I believe that through collaboration, people can come up with better ideas together than by themselves. I'm excited to gain new experiences, skills, and to be inspired by the people I meet. In addition to graphic design, I also enjoy illustration and motion design.
 
-If I am not working, you would probably find me hiking somewhere in the countryside with my friends and dog, or enjoying time in a pub. To relax my mind I love to play the trumpet or sing with my ukulele. Traveling to any country is attractive for me as well.
+If I'm not working, you would probably find me hiking somewhere in the countryside with my friends and dog, or enjoying time in a pub. To relax my mind I love to play the trumpet or sing with my ukulele. Traveling to any country is attractive for me as well.
 
 ## Education  
 
