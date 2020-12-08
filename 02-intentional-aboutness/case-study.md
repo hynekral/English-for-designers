@@ -43,6 +43,5 @@ Because there will be various events taking place in the theatre, I tried to des
 ![canvas bag merch](./img/merch.png)
 `Merch example.`
 
-I know that I still have a long way to go. 
 This is an ongoing project, because the visual identity is still in progress and I know that I still have a long way to go. However the work that has been already done has been accepted positively.
 
