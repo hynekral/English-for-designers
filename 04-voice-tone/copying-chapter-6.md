@@ -8,3 +8,5 @@ It’s the same according to art. When I was younger I always wanted to draw a p
 Currently, I moved on even further. Because I’ve already learned the basics and I feel like I want to create my own work. Something unique. Naturally I still look up work by other authors, but now, it is not about copying. Now it is about inspiration that I am gaining. I get inspired by colors palette, design style, possibilities of use, but then I keep working on it. I would be truly dissatisfied if I just copied others works. 
 
 In conclusion, copying without specifying the source is, as I hope everyone thinks, dishonest. Nevertheless, soaking up the inspiration and then transforming it into your work, is absolutely fine. Besides, I think it’s almost impossible to come up with an completely new idea. It's more about how we can deal with the gained experiences.
+
+![original by Basquiat](04.img/kral-basquait.jpg)
