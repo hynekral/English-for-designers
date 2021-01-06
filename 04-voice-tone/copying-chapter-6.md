@@ -10,10 +10,10 @@ Currently, I moved on even further. Because I’ve already learned the basics an
 In conclusion, copying without specifying the source is, as I hope everyone thinks, dishonest. Nevertheless, soaking up the inspiration and then transforming it into your work, is absolutely fine. Besides, I think it’s almost impossible to come up with an completely new idea. It's more about how we can deal with the gained experiences.
 
 `Original paiting by Jean Michel Basquiat.`
-![original by Basquiat](./04.img/kral-basquiat.jpg)
+![original by Basquiat](./04.img/basquiat-original.jpg)
 
 `My work inspired by Jean Michel Basquiat.`
-![My work inspired by Basquiat](./04.img/basquiat-original.jpg)
+![My work inspired by Basquiat](./04.img/kral-basquiat.jpg)
 
 `Original work by Andy Warhol.`
 ![original by Andy Warhol](./04.img/warhol-original.jpg)
