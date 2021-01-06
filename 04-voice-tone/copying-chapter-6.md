@@ -9,4 +9,4 @@ Currently, I moved on even further. Because I’ve already learned the basics an
 
 In conclusion, copying without specifying the source is, as I hope everyone thinks, dishonest. Nevertheless, soaking up the inspiration and then transforming it into your work, is absolutely fine. Besides, I think it’s almost impossible to come up with an completely new idea. It's more about how we can deal with the gained experiences.
 
-![original by Basquiat](./04.img/kral-basquait.jpeg)
+![original by Basquiat](./04.img/kral-basquiat.jpg)
