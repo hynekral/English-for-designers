@@ -8,7 +8,7 @@ In my Bachelor thesis I am going to create a new visual identity and communicati
 </details>
 
 ### Outline ###
- -Centre of People in Need since 2011
+- Centre of People in Need since 2011
 - Café, lecture/workshop rooms
 - Connecting People in need with general public
 - Enriching and entertaining people
