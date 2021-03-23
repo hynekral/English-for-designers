@@ -14,14 +14,31 @@ In my Bachelor thesis I am going to create a new visual identity and communicati
 - Enriching and entertaining people
 - Target group - People who are interested in non-profit organizations, people who care about the world and other people, students
 - Analysing the competition, their weaknesses and strengts.
+- Talks, workshops, exhibitions
 
 ### Voice & Tone
-- **Voice** - 
-- **Tone** - 
+- **Voice** - honest, educated, inspirational
+- **Tone** - formal but natural
 
 ### Notes
 
 ### Keywords
+Corporate identity
+* Corporate identity includes the history of the company, philosophy and vision, people belong to the company and its ethical value. 
+Corporate Image
+* It is an opinion which public have based on behavior of the company
+
+Corporate Culture
+* It is not set by itself, but spontaneously results from the values, thinking, attitudes, behavior and opinions of employees
+
+Corporate Communications
+
+Corporate design
+Logo
+Colours
+
+
+
 
 ### References
 
