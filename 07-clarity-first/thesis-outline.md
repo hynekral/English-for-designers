@@ -34,14 +34,14 @@ Corporate Culture
 Corporate Communications
 
 Corporate design
-Logo
-Colours
+* Logo
+* Colours
 
 
 
 
 ### References
 
-czech:
+czech:Skautský insitut, Kasárny Karlín, Mama coffee, Cafe v lese, Prostor 39, CAMP, Vnitroblock, Kafe Komedie
 
 world:
