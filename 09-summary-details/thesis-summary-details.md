@@ -76,15 +76,15 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `Advertising flag with the logo.`
 
-![New Instagram.](./img-instagram-honza-3.png)
+![New Instagram.](./img-thesis/instagram-honza-3.png)
 
 `New Instagram.`
 
-![The old logo of The Langhans Center.](./img-instagramove-posty.png)
+![The old logo of The Langhans Center.](./img-thesis/instagramove-posty.png)
 
 `Insta.`
 
-![The old logo of The Langhans Center.](./img-instagramove-posty-final.png)
+![The old logo of The Langhans Center.](./img-thesis/instagramove-posty-final.png)
 
 `The building of Langhans before reconstruction.`
 
