@@ -10,4 +10,4 @@ The aim of the work is to create a comprehensive visual communication concept wh
 
 Key words: visual communication, graphic design, pictogram, non-profit organization, social networking sites
 
-![The old logo of The Langhans Center.](./img/misa.png)
+![The old logo of The Langhans Center.](./img-thesis/soucasne-logo.png)
