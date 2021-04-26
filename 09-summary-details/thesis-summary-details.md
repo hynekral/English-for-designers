@@ -60,7 +60,7 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `Wayfinding system - gallery.`
 
-![Wayfinding system - gallery, detail.](./img-thesis/galerie-dlouha-expozice kopie.jpg)
+![Wayfinding system - gallery, detail.](./img-thesis/galerie-dlouha-expozice-kopie.jpg)
 
 `Wayfinding system - gallery, detail.`
 
@@ -104,7 +104,7 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `Tableware design.`
 
-![Coffee cup.](./img-thesis/kavove-kalimky kopie.jpg)
+![Coffee cup.](./img-thesis/kavove-kalimky-kopie.jpg)
 
 `Coffee cup.`
 
