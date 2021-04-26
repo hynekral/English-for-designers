@@ -23,15 +23,19 @@ In my Bachelor thesis I am going to create a new visual identity and communicati
 ### Notes
 
 ### Keywords
+
+visual communication, graphic design, pictogram, non-profit organization, social networking sites
+
 Corporate identity
 * Corporate identity includes the history of the company, philosophy and vision, people belong to the company and its ethical value. 
 Corporate Image
 * It is an opinion which public have based on behavior of the company
 
 Corporate Culture
-* It is not set by itself, but spontaneously results from the values, thinking, attitudes, behavior and opinions of employees
+* In order to ensure the proper functioning of the entity, it is necessary to maintain a unified corporate culture. This results from the values, thinking, attitudes, behavior and opinions of employees. The employees must share these opinions in order of keeping the proper function of the company.
 
 Corporate Communications
+* It represents the complex communication activity of the company, which must be predetermined and must be lead by the same unchanging philosophy.
 
 Corporate design
 * Logo
@@ -44,4 +48,3 @@ Corporate design
 
 czech:Skautský insitut, Kasárny Karlín, Mama coffee, Cafe v lese, Prostor 39, CAMP, Vnitroblock, Kafe Komedie
 
-world:
