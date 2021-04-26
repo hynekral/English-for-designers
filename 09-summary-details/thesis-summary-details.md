@@ -88,83 +88,83 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `The building of Langhans before reconstruction.`
 
-![The old logo of The Langhans Center.](./skutecny-darek-gif-instagram.gif)
+![Animated pictogram.](./skutecny-darek-gif-instagram.gif)
 
-`The building of Langhans before reconstruction.`
+`Animated pictogram.`
 
-![The old logo of The Langhans Center.](./prednaska-gif-instagram.gif)
+![Animated pictogram.](./prednaska-gif-instagram.gif)
 
-`The building of Langhans before reconstruction.`
+`Animated pictogram.`
 
-![The old logo of The Langhans Center.](./img-thesis/dlouhej-honza-menu3.jpg)
+![Menu.](./img-thesis/dlouhej-honza-menu3.jpg)
 
-`The building of Langhans before reconstruction.`
+`Menu.`
 
-![The old logo of The Langhans Center.](./img-thesis/hrnecky2-2.jpg)
+![Tableware design.](./img-thesis/hrnecky2-2.jpg)
 
-`The building of Langhans before reconstruction.`
+`Tableware design.`
 
-![The old logo of The Langhans Center.](./img-thesis/kavove-kalimky kopie.jpg)
+![Coffee cup.](./img-thesis/kavove-kalimky kopie.jpg)
 
-`The building of Langhans before reconstruction.`
+`Coffee cup.`
 
-![The old logo of The Langhans Center.](./img-thesis/kelimek-pozadi.jpg)
+![Coffee cup.](./img-thesis/kelimek-pozadi.jpg)
 
-`The building of Langhans before reconstruction.`
+`Coffee cup.`
 
-![The old logo of The Langhans Center.](./img-thesis/honza-lepenka.jpg)
+![Ducktape with the logo.](./img-thesis/honza-lepenka.jpg)
 
-`The building of Langhans before reconstruction.`
+`Ducktape with the logo.`
 
-![The old logo of The Langhans Center.](./img-thesis/svacinovy-sacek-2.jpg)
+![Snack bag.](./img-thesis/svacinovy-sacek-2.jpg)
 
-`The building of Langhans before reconstruction.`
+`Snack bag.`
 
-![The old logo of The Langhans Center.](./img-thesis/zastera.jpg)
+![Apron.](./img-thesis/zastera.jpg)
 
-`The building of Langhans before reconstruction.`
+`Apron.`
 
-![The old logo of The Langhans Center.](./img-thesis/dlouuhej-sendvic.jpg)
+![The long sandwich.](./img-thesis/dlouuhej-sendvic.jpg)
 
-`The building of Langhans before reconstruction.`
+`The long sandwich.`
 
-![The old logo of The Langhans Center.](./img-thesis/pernicky-vetev.jpg)
+![Gingerbreads in the shape of the logo.](./img-thesis/pernicky-vetev.jpg)
 
-`The building of Langhans before reconstruction.`
+`Gingerbreads in the shape of the logo.`
 
-![The old logo of The Langhans Center.](./img-thesis/cerna-taska.jpg)
+![Black canvas bag with a white design.](./img-thesis/cerna-taska.jpg)
 
-`The building of Langhans before reconstruction.`
+`Black canvas bag with a white design.`
 
-![The old logo of The Langhans Center.](./img-thesis/taska-zebrik.jpg)
+![White canvas bag with a black design.](./img-thesis/taska-zebrik.jpg)
 
-`The building of Langhans before reconstruction.`
+`White canvas bag with a black design.`
 
-![The old logo of The Langhans Center.](./img-thesis/taska-pumpa.jpg)
+![White canvas bag with a colorfull design.](./img-thesis/taska-pumpa.jpg)
 
-`The building of Langhans before reconstruction.`
+`White canvas bag with a colorfull design.`
 
-![The old logo of The Langhans Center.](./img-thesis/plakaty-na-mockupu2.jpg)
+![Events posters.](./img-thesis/plakaty-na-mockupu2.jpg)
 
-`The building of Langhans before reconstruction.`
+`Events posters.`
 
-![The old logo of The Langhans Center.](./img-thesis/tibet-plakat.jpg)
+![Event poster with a photo.](./img-thesis/tibet-plakat.jpg)
 
-`The building of Langhans before reconstruction.`
+`Event poster with a photo.`
 
-![The old logo of The Langhans Center.](./img-thesis/skutecny-darek.jpg)
+![The Real Gift poster.](./img-thesis/skutecny-darek.jpg)
 
-`The building of Langhans before reconstruction.`
+`The Real Gift poster.`
 
-![The old logo of The Langhans Center.](./img-thesis/UDALOST-fotka.png)
+![Facebook event with a photo.](./img-thesis/UDALOST-fotka.png)
 
-`The building of Langhans before reconstruction.`
+`Facebook event with a photo.`
 
-![The old logo of The Langhans Center.](./img-thesis/udalost-trubka.png)
+![Facebook event with a pictogram.](./img-thesis/udalost-trubka.png)
 
-`The building of Langhans before reconstruction.`
+`Facebook event with a pictogram.`
 
-![The old logo of The Langhans Center.](./img-thesis/posuvna-stena.jpg)
+![Moving wall.](./img-thesis/posuvna-stena.jpg)
 
-`The building of Langhans before reconstruction.`
+`Moving wall.`
 
