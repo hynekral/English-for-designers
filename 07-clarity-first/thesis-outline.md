@@ -20,8 +20,6 @@ In my Bachelor thesis I am going to create a new visual identity and communicati
 - **Voice** - honest, educated, inspirational
 - **Tone** - formal but natural
 
-### Notes
-
 ### Keywords
 
 visual communication, graphic design, pictogram, non-profit organization, social networking sites
