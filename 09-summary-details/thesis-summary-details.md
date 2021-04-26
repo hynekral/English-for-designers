@@ -10,7 +10,7 @@ The aim of the work is to create a comprehensive visual communication concept wh
 
 Key words: visual communication, graphic design, pictogram, non-profit organization, social networking sites
 
-
+## The building of the Langhans Palace
 
 ![The building of Langhans before a reconstruction.](./img-thesis/palac-langhans.jpg)
 
@@ -19,6 +19,8 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 ![The building of Langhans after a reconstruction.](./img-thesis/rekonstrukce.jpg)
 
 `The building of Langhans after a reconstruction.`
+
+## The current Logo and communication
 
 ![The current logo.](./img-thesis/soucasne-logo.png)
 
@@ -32,13 +34,19 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `Current Facebook.`
 
+## New logo
+
 ![New logo.](./img-thesis/logo-final.png)
 
 `New logo.`
 
+## The communication language
+
 ![The communication language - posters.](./img-thesis/plakaty.jpg)
 
 `The communication language - posters.`
+
+## Pictograms
 
 ![The construction of piktograms.](./img-thesis/vznik-piktogramu.png)
 
@@ -48,9 +56,13 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `Series of pictograms.`
 
+## Color palette
+
 ![The color palette.](./img-thesis/barevna-paleta.png)
 
 `The color palette.`
+
+## Wayfinding system
 
 ![Stickers on the front door.](./img-thesis/vchodove-dvere-vyrez-2.jpg)
 
@@ -68,6 +80,9 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `Toilet signs.`
 
+## Communication branches
+### 1. Center Dlouhej Honza 
+
 ![Facebook intro.](./img-thesis/bannery-final.png)
 
 `Facebook intro.`
@@ -76,17 +91,19 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `Advertising flag with the logo.`
 
+### 2. Café Dlouhej Honza
+#### Instagram
 ![New Instagram.](./img-thesis/instagram-honza3.jpg)
 
 `New Instagram.`
 
-![The old logo of The Langhans Center.](./img-thesis/instagramove-posty-piktogramy.jpg)
+![Instagram posts with pictograms.](./img-thesis/instagramove-posty-piktogramy.jpg)
 
-`Insta.`
+`Instagram posts with pictograms.`
 
-![The old logo of The Langhans Center.](./img-thesis/instagramove-posty-final.jpg)
+![Café Instagram posts.](./img-thesis/instagramove-posty-final.jpg)
 
-`The building of Langhans before reconstruction.`
+`Café Instagram posts.`
 
 ![Animated pictogram.](./skutecny-darek-gif-instagram.gif)
 
