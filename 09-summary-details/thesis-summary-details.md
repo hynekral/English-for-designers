@@ -161,6 +161,8 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `White canvas bag with a colorfull design.`
 
+### 3. People in Need events
+
 ![Events posters.](./img-thesis/plakaty-na-mockupu2.jpg)
 
 `Events posters.`
