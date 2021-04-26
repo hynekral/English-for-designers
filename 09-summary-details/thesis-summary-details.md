@@ -104,7 +104,7 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 `Tableware design.`
 
-![Coffee cup.](./img-thesis/kavove-kalimky-kopie.jpg)
+![Coffee cup.](./img-thesis/kavove-kelimky-kopie.jpg)
 
 `Coffee cup.`
 
