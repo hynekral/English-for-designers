@@ -19,5 +19,5 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 ![The old logo of The Langhans Center.](./img-thesis/plakaty.jpg)
 ![The old logo of The Langhans Center.](./img-thesis/vznik-piktogramu.png)
 ![The old logo of The Langhans Center.](./img-thesis/piktogramy.png)
-![The old logo of The Langhans Center.](./img-thesis/soucasne-logo.png)
+![The old logo of The Langhans Center.](./img-thesis/barevna-paleta.png)
 ![The old logo of The Langhans Center.](./img-thesis/soucasne-logo.png)
