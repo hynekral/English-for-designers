@@ -33,11 +33,17 @@ In the years 2001 and 2002 there was a reconstruction according to the design of
 
 ## The current Logo and communication
 
-The current logo of the Center is purely typographic and consists of a capital bold inscription "LANGHANS" supplemented by the "CENTER OF PEOPLE IN NEED", or in the second variant "CAFE IN THE CENTER". The inscription Langhans is distinctive by the missing upper quarter of the letters and the absence of crossbars at letter A. It is defined primarily in white on a almost black background.
+The current logo of the Center is purely typographic and consists of a capital bold inscription *LANGHANS* supplemented by the *CENTER OF PEOPLE IN NEED*, or in the second variant *CAFE IN THE CENTER*. The inscription Langhans is distinctive by the missing upper quarter of the letters and the absence of crossbars at letter *A*. It is defined primarily in white on a almost black background.
 
 ![The current logo.](./img-thesis/soucasne-logo.png)
 
 `The current logo.`
+
+The logo is the only unifying graphic element of the visual communication of the Langhans Center. It is used as a profile picture on Instagram, Facebook and Twitter. However, even these profile photos are not completely uniform. We can find a black and white variant of the logo only on Twitter, but on the other social networks they are working with a variant where the dark gray background is replaced by a photo of a blue outdoor table. That is why the logo loses its legibility.
+
+The Langhans Center communicates with the public mainly through Instagram, Facebook and Twitter profile. The posts mostly concern the promotion of the café and the products they offer, as well as information on the activities of People in Need and the upcoming events held in the Center. 
+
+Photos are probably taken on the phone, they do not have a sufficient quality and thus do not inspire trust, especially if we are talking about gastronomic posts. The content is not visually unified, the photographs do not carry a constant tonality of colors, which is important to create an overall harmonic impression.
 
 ![Current Instagram.](./img-thesis/instagram-langhans.png)
 
