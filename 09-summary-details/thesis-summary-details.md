@@ -53,7 +53,22 @@ Photos are probably taken on the phone, they do not have a sufficient quality an
 
 `Current Facebook.`
 
-## New logo
+## Current name
+
+Currently the name Langhans Center is used. It refers to the tradition of the building and its original owner, photographer Jan Langhans. Although I appreciate his work and the innovative approach of this man and see this naming as a kind of honor, I am not entirely sure of the relevance of using his name in connection with the center of a non-profit organization.
+
+Among other things, I do not consider the name Langhans Center to be easy to remember, especially if the visitor is not familiar with the history of the building or does not know at least the basics of the German language. Another factor in choosing a name change is the bad association that it evokes in me. Based on the name, we could expect more of Center of Jan Langhans, not People in Need.
+
+Therefore, I decided to find a name that will refer to the creditable activities of the organization People in Need, but at the same time it will refer to the already used German name. My goal was to come up with a name that would be memorable, human-friendly, and variable for a whole range of messages of different content with a uniform tonality. For this purpose, I find it appropriate the name to be in the Czech language.
+
+## New name
+
+The new name is based on the name and surname of the original owner of the photo studio - Jan Langhans. If we divide the German surname Langhans into *lang* which means long and *hans* that means John /*Honza*, we find out that the full name of the original owner could be translated as John Long John/*Jan Dlouhý Jan*. For simplicity, I have reduced the translated name only to Long John/*Dlouhej Honza*. 
+
+In this case, the name John/*Honza* refers to a children's literary classic - Czech John/*Český Honza*. 
+He is a typical Czech fairy-tale character, a young honest boy with a good heart, who, above all, was never afraid of anything because he had a clear conscience.
+
+In my opinion, John/*Honza*, who selflessly helps both at home and in the world, perfectly corresponds to the philosophy of a non-profit organization. 
 
 ![New logo.](./img-thesis/logo-final.png)
 
