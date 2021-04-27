@@ -12,7 +12,7 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 ## The building of the Langhans Palace
 
-Since the 1880, the house at 37 Vodičkova Street in Prague has been associated with photography. It was named after Jan Langhans, a prominent Czech portraitist. He lived in 1851–1928. He studied food chemistry, but his passion for photography was stronger. That is why he established a small studio in Jindřichův Hradec in 1876 .From there, after four years, he moved to Prague, where he founded a portrait studio - Atelier Langhans.
+Since the 1880, the house at Vodičkova Street in Prague has been associated with photography. It was named after Jan Langhans, a prominent Czech portraitist. He lived in 1851–1928. He studied food chemistry, but his passion for photography was stronger. That is why he established a small studio in Jindřichův Hradec in 1876 .From there, after four years, he moved to Prague, where he founded a portrait studio - Atelier Langhans.
 
 An innovative approach, precise craftsmanship and artistic processing and very strong marketing for its time soon turned the studio into the largest photographic plant in the Czech Republic. Jan Langhans has participated in national and international exhibitions, won many awards, including the Order of the Persian Shah and the King of England. He also became the chairman of the Czech Photographic Association.
 
