@@ -12,15 +12,28 @@ Key words: visual communication, graphic design, pictogram, non-profit organizat
 
 ## The building of the Langhans Palace
 
+Since the 1880, the house at 37 Vodičkova Street in Prague has been associated with photography. It was named after Jan Langhans, a prominent Czech portraitist. He lived in 1851–1928. He studied food chemistry, but his passion for photography was stronger. That is why he established a small studio in Jindřichův Hradec in 1876 .From there, after four years, he moved to Prague, where he founded a portrait studio - Atelier Langhans.
+
+An innovative approach, precise craftsmanship and artistic processing and very strong marketing for its time soon turned the studio into the largest photographic plant in the Czech Republic. Jan Langhans has participated in national and international exhibitions, won many awards, including the Order of the Persian Shah and the King of England. He also became the chairman of the Czech Photographic Association.
+
+In the 1948, Atelier Langhans was nationalized on the basis of a decree on the socialization of services. The then Czechoslovakia thus suffered an enormous cultural loss.
+ 
+After the Velvet Revolution in November 1989, the property was returned to the descendants of Jan Langhans. However, as a result of the socialist government's neglected property care, the family was handed over a completely ruined building.
+ 
+
 ![The building of Langhans before a reconstruction.](./img-thesis/palac-langhans.jpg)
 
 `The building of Langhans before a reconstruction.`
+
+In the years 2001 and 2002 there was a reconstruction according to the design of the architect Ladislav Lábus. The reconstruction achieved a harmonious conection between modern architecture and history.
 
 ![The building of Langhans after a reconstruction.](./img-thesis/rekonstrukce.jpg)
 
 `The building of Langhans after a reconstruction.`
 
 ## The current Logo and communication
+
+The current logo of the Center is purely typographic and consists of a capital bold inscription "LANGHANS" supplemented by the "CENTER OF PEOPLE IN NEED", or in the second variant "CAFE IN THE CENTER". The inscription Langhans is distinctive by the missing upper quarter of the letters and the absence of crossbars at letter A. It is defined primarily in white on a almost black background.
 
 ![The current logo.](./img-thesis/soucasne-logo.png)
 
