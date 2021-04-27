@@ -31,6 +31,30 @@ In the years 2001 and 2002 there was a reconstruction according to the design of
 
 `The building of Langhans after a reconstruction.`
 
+## Brief
+The first and basic step before starting to invent a new visual communication concept was to define a brief.
+
+Therefore I performed a SWOT analysis of the current state. The analysis was conducted in the form of an interview with Filip Chládek, who manages the social networks of the Langhans Center and to whom I was referred.
+
+What are the strengths of the Center?
+*Definitely the location, the garden and the space of the building, the magic of the place that I will discover when I walk down the alley. Furthermore, informality, anything can happen here, it has the opportunity to become anything. It is a center in the center where people are centered. Informal development of values, cultivation of personality.*
+
+On the contrary, what are the weaknesses?
+*It's under People in Need, it binds us a bit, the prestige and so on. Laziness and little innovation. Selling coffee is no longer enough.*
+
+What are the opportunities?
+*Greater innovation, initiative. Pulling forward, inventing something new compared to the competition.*
+
+What are the threats? What are your problems? What problems could occur?
+*Closing. Threats to our values. Nothing is happening here, it is losing value. That's not what it was supposed to be anymore.*
+
+Filip Chládek later answered my questions concerning the target group, attendance, use of space, etc. I summarized the answers in the following paragraph.
+
+In the normal operation of the café, visitors are usually over thirty years of age, often employees of nearby offices and pensioners. Some of the customers are probably high school students. The Centre's wish is to gain a clientele of university students and people under the age of thirty.
+Advertising and communication is online or directly at the Centre's site for financial reasons.
+Following the interview and SWOT analysis, I clarified the situation in which the Langhans Center is currently located and set goals that I would like to achieve during my work.
+As part of the visual communication concept, I will create a new visual style that will be representative, but will not be dull. I will create a concept that is modern, not fashionable, so that it will be sustainable. I will design solution for communication on social networks and communication directly in the Center. I will try to point out the potential that the subject hides and I will suggest its development.
+
 ## The current Logo and communication
 
 The current logo of the Center is purely typographic and consists of a capital bold inscription *LANGHANS* supplemented by the *CENTER OF PEOPLE IN NEED*, or in the second variant *CAFE IN THE CENTER*. The inscription Langhans is distinctive by the missing upper quarter of the letters and the absence of crossbars at letter *A*. It is defined primarily in white on a almost black background.
@@ -70,11 +94,25 @@ He is a typical Czech fairy-tale character, a young honest boy with a good heart
 
 In my opinion, John/*Honza*, who selflessly helps both at home and in the world, perfectly corresponds to the philosophy of a non-profit organization. 
 
+## New logo
+
+With the new name I was thinking about a creation of a logo in the form of a mascot - Long John. The obstacle I encountered, was an excessive connection with the fairy-tale John. The mascot was too descriptive, infantile or not appropriate to the subject's idea.
+
+So I was looking for a simpler variant that would not overshadow the idea of the subject, but at the same time would express the idea of the Czech *Honza*. Another requirement was to create a logo that will be variable, playful and unmistakably assignable to the subject.
+
+In the end, after a long sketching process, I decided to use a typographic variant of the logo. The logo consists of the inscription *Dlouhej Honza*, in which the mascot is already included. The mascot is based on the letter H, which represents his body. By stretching the stems of the letter downwards, the legs are created, which give to *Dlouhej Honza* his characteristic height / length. The head is formed by the letter o. Both letters remain in the original ratio.
+
+The logo works in a minimum size of 15 mm that its legibility is not lost. 
+
 ![New logo.](./img-thesis/logo-final.png)
 
 `New logo.`
 
 ## The communication language
+
+During the creation of the visual communication concept, I tried to achieve a comprehensive output. Therefore, the language of communication follows the visual side of the work and vice versa. 
+
+The starting point of the communication language was the name *Dlouhej Honza*/Long John itself. The word *long* is constantly repeated in the communication, and in combination with the name, it strengthens the awareness of the subject's existence. Whatever the form of the communication is, it is characterized by one distinctive sentence that contains the word *long*. The sentence attracts the attention of the observer. Except that there is also more detailed explanation, for example the name of the upcoming event that will take place at the center.
 
 ![The communication language - posters.](./img-thesis/plakaty.jpg)
 
