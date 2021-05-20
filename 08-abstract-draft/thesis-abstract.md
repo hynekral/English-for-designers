@@ -7,4 +7,4 @@ In the practical part of the thesis, an analysis of the current state of the sub
 
 The aim of the work is to create a comprehensive visual communication concept while bringing attention to the existence of the Langhans Center among the general public. The possible implementation of the new concept should then tap into the space’s potential and make it more attractive. This should then lead to a shift in the public perception of the Langhans Center from being seen as a simple café to serving as a multifunctional space for professionals and ordinary people alike.
 
-Key words: visual communication, graphic design, pictogram, non-profit organization, social networking sites
+Keywords: visual communication, graphic design, pictogram, non-profit organization, social networking sites
